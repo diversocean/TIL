@@ -1,2 +1,2 @@
 # TIL
-Todat I leaned
+Today I leaned
