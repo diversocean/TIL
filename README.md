@@ -10,3 +10,5 @@ Today I leaned
   
 In Deepstream,  
 video format:RGBA → pyds.get_nvds_buf_surface(arg0: int, arg1: int) → numpy.ndarray[uint8]
+
+define video format:RGBA = **capsfilter** plugin
